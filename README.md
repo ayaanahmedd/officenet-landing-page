@@ -1,2 +1,2 @@
 # OfficeNet
-Landing Page assignment for Netcomm Labs Pvt Lvt
+Landing Page assignment for Netcomm Labs.
